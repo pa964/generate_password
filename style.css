@@ -1,0 +1,22 @@
+*{
+    text-align: center;
+}
+.card{
+    height:200px;
+    width: 400px;
+    background-color:rgb(20, 162, 162);
+    border-radius: 20px;
+    margin: 50px 400px;
+    padding-top: 50px;
+}
+input{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
+button{
+    background-color: chocolate;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+}
